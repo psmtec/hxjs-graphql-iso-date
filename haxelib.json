@@ -1,0 +1,9 @@
+{
+    "name": "hxjs-graphql-iso-date",
+    "license": "MIT",
+    "tags": ["externs", "graphql", "date", "time", "datetime"],
+    "classPath": "src",
+    "description": "Externs for graphql-iso-date",
+    "version": "0.1.0",
+    "url": "https://github.com/psmtec/hxjs-graphql-iso-date"
+}
